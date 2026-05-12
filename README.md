@@ -5,7 +5,7 @@ I am a retired software developer. With a background in C++, C#, Delphi, Javascr
 
 My ongoing project is Peanut, a plug and play library of extensions to CMS systems with special packages for Quaker meetings and organizations. Peanut is also part of Nutshell, a lightweight application framework designed to host Peanut code. The system is written in PHP and TypeScript using the KnockOut MVVM library. 
 
-For documentation details see the [Peanut Documentation](https://github.com/tsorelle/peanut-docs/blob/master/documentation/index.md](https://github.com/tsorelle/Peanut-core/blob/master/doc/public/index.md)
+For documentation details see the [Peanut Documentation](https://github.com/tsorelle/Peanut-core/blob/master/doc/public/index.md)
 
 ## Repositories
 
