@@ -8,8 +8,8 @@ My ongoing project is Peanut, a plug and play library of extensions to CMS syste
 Supported CMS frameworks include:
 - Concreate CMS (recommended!)
 - Nutshell (used as a stand-alone framework or as extention to other CMS)
+- Wordpress
 - Drupal (inactive, supported on request)
-- Wordpress (in development)
 
 Reference application for Peanut's core code and packages is found here: [Peanut Core](https://github.com/tsorelle/Peanut-core/tree/master)
 
