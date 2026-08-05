@@ -20,6 +20,11 @@ For documentation details see the [Peanut Documentation](https://github.com/tsor
 Reference applications for Peanut are available here publically.  Repositories for active projects are private. Access may be granted to collaborators on request.
 
 ## Active Projects
+Reference Applications and Shared Code for Peanut:
+- Peanut Core and Nutshell: [Demo](https://peanut.2quakers.net/) | [Repository](https://github.com/tsorelle/Peanut-core)
+- Peanut for ConcreteCMS: Demo (See below for working examples) | [Repository](https://github.com/tsorelle/peanut-concretecms)
+- Peanut for WordPress: [Demo](https://gutenberg.2quakers.net/) | [Repository](https://github.com/tsorelle/peanut-gutenberg)
+
 The following production sites use Peanut:
 - [Friends Meeting of Austin / austinquakers.org](https://austiquakers.org)
 - [South Central Meeting / scym.org](https://scym.org)
